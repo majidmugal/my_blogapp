@@ -1,0 +1,11 @@
+i want to create a blog app in flask it has option to write blogs with title and description
+it shoul have responsive ui 
+it should has database to store blogs
+use sqlalchemy for database
+and make curd operation for blogs
+make user authentication for users
+make user login and signup
+make admin section also they can edit delete and update any blog
+make user profile and user can update their profile
+
+make deployments steps also with nginex and systemctl on aws
